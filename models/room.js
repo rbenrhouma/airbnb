@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const Room = mongoose.model("Department", {
+const Room = mongoose.model("Room", {
   title: String,
   description: String,
   photos: [String],
