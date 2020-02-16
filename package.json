@@ -1,5 +1,5 @@
 {
-  "name": "airbnb",
+  "name": "AwesomeApp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,7 @@
     "node": "^13.1.0",
     "nodemon": "^1.19.4",
     "sha256": "^0.2.0",
-    "uid2": "0.0.3"
+    "uid2": "0.0.3",
+    "uuid-token-generator": "^1.0.0"
   }
 }
